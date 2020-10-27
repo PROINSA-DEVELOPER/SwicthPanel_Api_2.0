@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EASY_PASS_SWITCH_PANEL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmisorCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">easypass@proinsaca.com</Value>
+    </Setting>
+    <Setting Name="ContrasenaCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">abcd1234$$$</Value>
+    </Setting>
+    <Setting Name="PuertoCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ServidorCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.proinsaca.com</Value>
+    </Setting>
+    <Setting Name="Ssl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CorreoCopia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="UltimaLectura" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="DestinatarioCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">easypass@proinsaca.com</Value>
+    </Setting>
+    <Setting Name="Nombre_Cliente" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PROINSA_PROYECTOS_INTELIGENTES</Value>
+    </Setting>
+    <Setting Name="ApiURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:81</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

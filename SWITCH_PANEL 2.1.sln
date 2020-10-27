@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWITCH_PANEL", "EASY_PASS_SWITCH_PANEL\SWITCH_PANEL.csproj", "{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SWITCH PANEL [PROINSA PROYECTOS INTELIGENTES]", "SWITCH PANEL [PROINSA PROYECTOS INTELIGENTES]\SWITCH PANEL [PROINSA PROYECTOS INTELIGENTES].vdproj", "{022C59E9-1532-4410-9442-5296E73D9304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Debug|x64.ActiveCfg = Debug|x64
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Debug|x64.Build.0 = Debug|x64
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Release|x64.ActiveCfg = Release|x64
+		{568D5B37-1C4F-4ED5-A8DB-D767A0736F61}.Release|x64.Build.0 = Release|x64
+		{022C59E9-1532-4410-9442-5296E73D9304}.Debug|Any CPU.ActiveCfg = Debug
+		{022C59E9-1532-4410-9442-5296E73D9304}.Debug|x64.ActiveCfg = Debug
+		{022C59E9-1532-4410-9442-5296E73D9304}.Debug|x64.Build.0 = Debug
+		{022C59E9-1532-4410-9442-5296E73D9304}.Release|Any CPU.ActiveCfg = Release
+		{022C59E9-1532-4410-9442-5296E73D9304}.Release|x64.ActiveCfg = Release
+		{022C59E9-1532-4410-9442-5296E73D9304}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894C15E8-19A9-4AE8-B121-E8384E041F63}
+	EndGlobalSection
+EndGlobal
